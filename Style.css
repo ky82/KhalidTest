@@ -1,0 +1,56 @@
+header {
+    /* This will color the heading background Black. */
+    background-color: #333333;
+
+}
+
+body {
+    /* This will color the body background efeee7. */
+    background-color:#efeee7;
+     /* This will change the font family to New Roman */
+    font-family: Georgia,"Times New Roman", Times, serif;
+     /* This will color the body #333333. */
+    color:#333333;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+h1 {
+    color:#eee;
+    font-size: 28px;
+    text-align: center;
+    margin: 0;
+    padding: 25px;
+}
+
+h2 {
+    font-size: 24px;
+    }
+
+.containter {
+    width: 1024px;
+    margin: 0 auto;
+}
+#main-bio {
+    float: left;
+    width: 70%;
+    margin: auto;
+    }
+
+#contact-info {
+    float: left;
+    width: 30%;
+}
+
+#bio-image {
+    float: left;
+    width: 200px;
+    margin-right: 70px;
+}
+
+a {
+    line-height: 1.5;
+    color: #d21034;
+}
